@@ -104,8 +104,8 @@
 			</ul>
 		</div>
 		<div id="page-body" role="main">
-			<h1> Examples of DynamicThemes plugin</h1>
-			<p>This application is an example of using the plugin "DynamicThemes". This plugin allows you to display different dynamically compiled gsp outside location.</p>
+			<h1> Examples of dynamic-themes plugin</h1>
+			<p>This application is an example of using the plugin "dynamic-themes". This plugin allows you to display different dynamically compiled gsp outside location.</p>
 			<p>This application already contains three themes: default, default2 and default3.</p>
 			<p>You can upload your own themes, Download example zip theme and don't forget rename it to see the structure</p>
 			<p>Once loaded you can select it to be injected into the current page</p>
