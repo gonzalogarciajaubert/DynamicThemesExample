@@ -1,4 +1,4 @@
 DynamicThemesExample
 ====================
 
-Examples for DynamicThemesPlugin
+Examples for DynamicThemesPlugin (https://github.com/gonzalogarciajaubert/DynamicThemesPlugin)
